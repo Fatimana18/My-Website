@@ -1,0 +1,21 @@
+header{
+  height: 200px;
+}
+main{
+  height: 600px;
+}
+footer{
+  height: 50px;
+}
+#center{
+   text-align: center;
+}
+#help{
+  background-color: #e59a9a;
+}
+#int{
+  border-style: solid;
+}
+#lint{
+  border-color: solid;
+}

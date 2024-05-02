@@ -1,0 +1,23 @@
+header{
+  height: 200px;
+}
+main{
+  height: 600px;
+}
+footer{
+  height: 50px;
+}
+  #center {
+    margin: auto;
+    width: 50%;
+  }
+#fatima{
+  width: auto;
+  height: auto;
+}
+#help{
+  background-color: #e59a9a;
+}
+#fint{
+  border-style: solid;: 
+}

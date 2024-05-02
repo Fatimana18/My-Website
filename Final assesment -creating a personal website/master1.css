@@ -1,0 +1,30 @@
+header{
+  height: 200px;
+}
+main{
+  height: 600px;
+}
+footer{
+  height: 50px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#help{
+  background-color: #e59a9a;
+}
+#uni{
+  border-style: solid;
+}
+#you{
+  animation-duration: 3s;
+   animation-name: slidein;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+   animation-name: fadeInOut, moveLeft300px, bounce;
+animation-duration: 2.5s, 5s, 1s;
+animation-iteration-count: 2, 1, 5;
+}

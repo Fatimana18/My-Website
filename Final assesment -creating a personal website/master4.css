@@ -1,0 +1,33 @@
+header{
+  height: 200px;
+}
+main{
+  height: 600px;
+}
+footer{
+  height: 50px;
+}
+#nai{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width:30%;
+}
+
+#lain{
+
+margin-left:center;
+}
+#nain{
+
+text-align: center;
+}
+#for{
+  background-color: #e59a9a;
+}
+#inn{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width:60%;
+}
